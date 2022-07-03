@@ -23,6 +23,12 @@ body {
     background: #8dc3ff;
     font-family: 'Audiowide';
 }
+p{
+    font-family: sans-serif;
+}
+li{
+    font-family: sans-serif;
+}
 
 b{
     background-color: green;
